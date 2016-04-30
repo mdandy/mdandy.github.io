@@ -2,17 +2,14 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<div class="media">
+	<div class="media_figure avatar">
+		<img src="{{ site.baseurl }}/images/potrait.png" alt="Michael Dandy"/>
+	</div>
+	<div class="media_body">
+		<p>
+			Hi There! I'm Michael, and I am a software engineer. I graduated with Computer Science degree
+			from Georgia Institute of Technology.
+		</p>
+	</div>
 </div>

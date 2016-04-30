@@ -14,10 +14,29 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
-// Font stacks
+// Font 
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$simonetta: "Simonetta";
+
+// Sizing
+$sizeXXSmall: 6rem;
+$sizeXSmall: 12rem;
+$sizeSmall: 15rem;
+$sizeMedium: 20rem;
+$sizeLarge: 25rem;
+$sizeXLarge: 40rem;
+$sizeXXLarge: 60rem;
+
+// Spacing
+$spacingXXSmall: 0.25rem;
+$spacingXSmall: 0.5rem;
+$spacingSmall: 0.75rem;
+$spacingMedium: 1rem;
+$spacingLarge: 1.5rem;
+$spacingXLarge: 2rem;
+$spacingXXLarge: 2.25rem;
 
 // Mobile breakpoints
 @mixin mobile {
