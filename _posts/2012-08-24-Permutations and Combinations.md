@@ -8,7 +8,7 @@ thumbnail: /images/config.png
 
 ---
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 A **permutation** is an *X*-string $$S = X_1, X_2, \ldots, X_n$$ in which all $$X_i$$ are distinct.
 
