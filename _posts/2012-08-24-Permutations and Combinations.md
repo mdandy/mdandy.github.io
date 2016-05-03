@@ -49,6 +49,7 @@ The number of ways to arrange $$n$$ distinct objects along a fixed circle is
 P_n = (n - 1)!
 \\]
 
+{: .center}
 ![Circular Permutation](/images/math/circular_permutation.gif)
 
 Permutations of sets with some indistinguishable objects

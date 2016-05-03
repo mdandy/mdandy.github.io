@@ -12,6 +12,7 @@ title: Pretty Good Privacy Email Client
 
 The goal of Pretty Good Privacy Client (PGPClient) is to provide a way for users to encrypt and decrypt their emails using a Java based application so that the contents of the email remain secure and safe. Moreover, PGPClient will help users to authenticate the email integrity by detecting whether it has been altered since it was completed. We want to provide an application that will interact with online keyservers (e.g. [MIT's PGP keyserver](http://pgp.mit.edu/)) in order to provide user authentication and message integrity. With this application, a user will be able to create an email, encrypt the content, sign it, and finally send the email. The user receiving the email will be able to decrypt the content and check the integrity of the message. The encryption algorithm that will be used is RSA with 1024-bit keys and PKCS#1 padding scheme.
 
+{: .center}
 ![Pretty Good Privacy Encryption Diagram](/images/pgp_email/pgp_diagram.png)
 
 PGPClient is written in Java. The GUI is based on Java Swing library. Currently, it only supports POP3 and has only been tested with GMail.
