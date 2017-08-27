@@ -16,4 +16,5 @@ Family Feud game based on Google search suggestion.
 External Link
 -------------
 
+* [Link](http://mikedandy.com/google-feud/)
 * [Project Site](https://github.com/mdandy/google-feud)
