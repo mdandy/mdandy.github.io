@@ -1,7 +1,7 @@
 ---
 layout: post
-categories: [JS, PHP]
-tags: [jQuery, PHP, GTmob]
+categories: [JS]
+tags: [jQuery]
 excerpt_separator: <!--more-->
 
 title: Google Feud
